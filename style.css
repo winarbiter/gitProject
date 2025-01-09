@@ -4,5 +4,10 @@ body {
 
 h1 {
 
-    font-size: 40px;
+   colour : green;
+}
+
+p {
+
+   colour : blue;
 }
