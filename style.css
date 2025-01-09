@@ -11,3 +11,8 @@ p {
 
    colour : blue;
 }
+
+form {
+   margin : 20px;
+   padding : 30px;
+}
